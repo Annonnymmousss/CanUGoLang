@@ -7,6 +7,7 @@ CREATE TABLE album (
   PRIMARY KEY (`id`)
 );
 
+
 INSERT INTO album
   (title, artist, price)
 VALUES
